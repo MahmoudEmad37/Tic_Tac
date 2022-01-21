@@ -1,6 +1,7 @@
 # tic_tac
 
-A new Flutter project.
+Tic Tac is the Flutter Game, X or O ,Single player or Multiplayer.
+
 
 ## Getting Started
 
